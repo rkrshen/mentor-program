@@ -60,7 +60,7 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 題目說明：
 這一題是進階版的字串反轉，原本的只要把每個「字元」反轉，這個則是要把每個「單字」反轉。
 
-### ❌ Alternate case
+### ✅ Alternate case
 題目連結：https://www.codewars.com/kata/alternate-case  
 題目說明：把大寫字母轉成小寫，小寫字母轉成大寫
 
